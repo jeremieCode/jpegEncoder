@@ -55,7 +55,7 @@
 
 ## Foncitons terminées
 
-| Etape  | Difficulté pressentie         | Fin de tâche |
+| Etape  | Difficulté annoncée         | Fin de tâche |
 | :--------------- |:---------------| :-----:|
 | Ecriture bit à bit dans le flux  |:star: :star: :star: :star:| :white_check_mark: |
 | Ecriture en-tête JPEG  |:star: :star: :star: :star:| :white_check_mark: |
@@ -101,3 +101,8 @@
 - Problème relationnel au sein du groupe ? Contactez [Pascal](https://fr.wikipedia.org/wiki/Pascal,_le_grand_fr%C3%A8re) !
 - Besoin de prendre l'air ? Le [Mont Rachais](https://fr.wikipedia.org/wiki/Mont_Rachais) est accessible à pieds depuis la salle E301 !
 - Un peu juste sur le projet à quelques heures de la deadline ? Le [Montrachet](https://www.vinatis.com/achat-vin-puligny-montrachet) peut faire passer l'envie à vos profs de vous mettre une tôle !
+
+## Auteurs
+- Jérémie Villepreux
+- Etienne Fontbonne
+- Thomas Démaret
